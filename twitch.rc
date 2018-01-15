@@ -1,0 +1,4 @@
+rc creds.rc
+irc-connect twitch irc.chat.twitch.tv 6667 ProfunctorBot Lambda_Robots:_100%_Loyal
+join twitch:#puffnfresh
+admin + twitch:puffnfresh
